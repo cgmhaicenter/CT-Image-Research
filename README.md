@@ -2,7 +2,7 @@
 
 ### 1. Use rule-based methods (Hounsfield unit) to generate lung and bone masks from CT images.
 
-![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/step_1.png =60%)
+![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/step_1.png =60%x)
 
 
 ### 2. Use these masks to training segmentation model, and follow Step A to Step D.

@@ -28,4 +28,6 @@
 
 
 ### 5.The GIF show the process of sum images.
-![image, images](https://github.com/lzy0934/CT-Image-Research/blob/master/images/step_4.png, https://github.com/lzy0934/CT-Image-Research/blob/master/images/step_4.png)
+![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/img.gif)
+![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/lung_bg.gif)![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/lung_img.gif)
+![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/bone_bg.gif)![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/bone_img.gif)

@@ -23,10 +23,6 @@
 ![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/step_4.png)
 
 
-### 4. Sum all segmentation images.
-![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/step_4.png)
-
-
 ### 5.The GIF show the process of sum images.
 ![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/img.gif)
 ![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/lung_bg.gif)![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/lung_img.gif)

@@ -2,6 +2,5 @@
 
 ### 1. Use rule-based methods (Hounsfield unit) to generate lung and bone masks from CT images
 
-![]
-(https://github.com/lzy0934/CT Image Research/row/master/images/step_1.png)
+![image](https://github.com/lzy0934/CT-Image-Research/blob/master/images/step_1.png)
 
